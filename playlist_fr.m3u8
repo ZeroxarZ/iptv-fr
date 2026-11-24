@@ -694,4 +694,24 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="zenith.fr@HD" tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
 
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASON" tvg-logo="http://one-iptv.com/logoX/franceculture/seasons.png" group-title="FRANCE CULTURE",|FR| SEASON
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/9227
+
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASON HD" tvg-logo="http://one-iptv.com/logoX/franceculture/seasons.png" group-title="FRANCE CULTURE",|FR| SEASON HD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/15128
+
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="|FR| SEASON FHD" tvg-logo="http://one-iptv.com/logoX/franceculture/seasons.png" group-title="FRANCE CULTURE",|FR| SEASON FHD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/9503
+
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| CANAL  SPORT SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnYv2wMX1v-QxZzhQgdgBeEp1eQnXCHfjyCTfmsa1670UMXG-tabml0eL&s" group-title="FRANCE SD",|FRA| CANAL  SPORT SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57618
+
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| BEIN SPORTS 1 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKVMrCLugdEKM6BIsa76qJ1IBOYenMThaqsYxacFj2FEC6A2PzNCSHC1g&s" group-title="FRANCE SD",|FRA| BEIN SPORTS 1 SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57648
+
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| BEIN SPORTS 2 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4_5S6AHC_H_bTFgFu-BeWV5nqb9Tt1qWVCNq1g_MztHg3RjK99Cv23kQ&s" group-title="FRANCE SD",|FRA| BEIN SPORTS 2 SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57645
+
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| BEIN SPORTS 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GlSgHlxGtfPK_qfnYPRKxVE4qZUAj0p7_GIo8b5Hb_8PDN3lL_BGsek&s" group-title="FRANCE SD",|FRA| BEIN SPORTS 3 SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57642
 
