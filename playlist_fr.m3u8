@@ -694,3 +694,9 @@ https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 tvg-id="zenith.fr@HD" tvg-logo="https://znth.tv/images/logo.png" group-title="Culture;General",zenith (1080p)
 https://live.azenagroup.com/zenith/index.ll.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| CHASSE ET PECHE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZHDypD2fSteILZHtK5ricSUoqncwLn6iYzKyiyZncRkNkHbrMdoA3DEI&s" group-title="FRANCE SD",|FRA| CHASSE ET PECHE SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57374
+
+#EXTINF:-1 tvg-id="" tvg-name="|FRA| SEASON SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKyFju-LjKFBBol9xZV74mr-cFV6jzTdSSj1orvYl3J3G8RaIfvVBSfzm&s" group-title="FRANCE SD",|FRA| SEASON SD
+http://vip.vprotv.com:25443/Mqjdjfbdhg/Z87DA7Q5DZ/57386
+
